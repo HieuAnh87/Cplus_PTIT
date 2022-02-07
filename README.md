@@ -1,2 +1,2 @@
 # Cplus-PTIT
-Các bài tập C++ trên https://code.ptit.edu.vn/login
+Các bài tập C++ trên https://code.ptit.edu.vn/
